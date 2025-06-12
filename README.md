@@ -96,7 +96,7 @@ python sales_analysis.py
 - **Console Output**: Product-level sales summary
 - **Chart**: Bar chart of total revenue per product
 
-![Example Chart](Output.png)
+![Example Chart](Ouput.png)
 
 ---
 
